@@ -1,4 +1,10 @@
-# Alpine-Linux 🐧
+<div align="center">
+    <img src="https://www.alpinelinux.org/alpinelinux-logo.svg" alt="Logo" width="500" height="125">
+  </a>
+</div>
+
+
+## Alpine-Linux 🐧
 
 Alpine Linux est une distribution Linux légère et sécurisée, conçue principalement pour être utilisée dans des environnements conteneurisés tels que Docker.
 
@@ -10,4 +16,4 @@ Enfin, Alpine Linux utilise également une technologie appelée "musl libc" pour
 
 Pour en savoir plus, lisez le rapport que j'ai fais sur Alpine Linux ! : https://leoruer.fr/rapports
 
-Dans ce dépôt, vous allez retrouver de la doc, des scripts et une VM entière sur Alpine Linux.
+Dans ce dépôt, vous allez retrouver de la doc, des scripts et une <a href="https://github.com/LeoRuer/Alpine-Linux/releases/tag/VM">VM entière sur Alpine Linux.</a>
