@@ -14,6 +14,6 @@ En plus de cela, Alpine Linux utilise également le gestionnaire de paquets apk,
 
 Enfin, Alpine Linux utilise également une technologie appelée "musl libc" pour sa bibliothèque standard C. Cette technologie est plus petite et plus rapide que la bibliothèque standard C traditionnelle, ce qui permet à Alpine Linux d'être encore plus léger et plus rapide.
 
-Pour en savoir plus, lisez le rapport que j'ai fais sur Alpine Linux ! : https://leoruer.fr/rapports
+Pour en savoir plus, lisez le rapport que j'ai fais sur Alpine Linux ! : https://leoruer.fr/projets
 
 Dans ce dépôt, vous allez retrouver de la doc, des scripts et une <a href="https://github.com/LeoRuer/Alpine-Linux/releases/tag/VM">VM entière sur Alpine Linux.</a>
